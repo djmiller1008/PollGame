@@ -1,0 +1,31 @@
+
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.start-stats-div {
+    margin-top: 35px;
+    text-align: center;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
+
+.questions-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+}
+
+.questions-div button {
+    width: 200px !important;
+}
+
+.stop-div {
+    margin-top: 40px;
+    text-align: center;
+}
+
